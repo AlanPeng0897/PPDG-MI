@@ -122,7 +122,7 @@ In this repository, we support [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/Ce
 ---
 
 ### Prepare Checkpoints for Target and Evaluation Models
-Download the model weights for the experiments at this [cloud drive](https://drive.google.com/drive/folders/1BYcA4p7uPVqpBSiSRldq_nIY-zmH1n18?usp=sharing).
+Download the model weights for the experiments at this [cloud drive](https://drive.google.com/drive/folders/12Mxrwuc_45MFLMOKdSu88CUi_fttMAY6).
 
 ---
 ### Perform Attacks
